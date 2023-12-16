@@ -1,0 +1,13 @@
+body {
+    background: #000000;
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.centered-content {
+    text-align: center; /* Center text horizontally */
+    color: white; /* Set text color */
+}
